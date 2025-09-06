@@ -5,8 +5,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=matthewschaney&theme=radical&hide_border=false)  
 
 ---
