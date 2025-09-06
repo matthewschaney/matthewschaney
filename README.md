@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋 I'm Matthew
 
-<!--
-**matthewschaney/matthewschaney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌞 **Daytime**: I’m a professional **Full-Stack Java Developer**, building scalable and reliable applications.  
+🌙 **Nighttime**: I’m the **Founder & Maintainer of [EleuCode](https://github.com/EleuCode)** — an open-source organization dedicated to producing free software apps, proudly licensed under **GPL-3.0**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![Matthew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matthewschaney&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=matthewschaney&theme=radical&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewschaney&layout=compact&theme=radical)
+
+---
+
+## 🚀 About EleuCode
+As the **Founder of EleuCode**, I lead a community-driven effort to create and maintain open-source projects that empower users.  
+We’re passionate about software freedom, accessibility, and transparency.  
+👉 Explore our work: [EleuCode on GitHub](https://github.com/EleuCode)
+
+---
+
+## ✨ Fun Facts
+- 🪐 Fascinated by **astronomy**, history, and maps  
+- 🎮 Gamer at heart  
+- 💡 Mission: contribute something meaningful to humanity — not for fame, but for fulfillment  
