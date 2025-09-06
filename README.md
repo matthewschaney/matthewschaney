@@ -22,4 +22,4 @@ We’re passionate about software freedom, accessibility, and transparency.
 - 🎮 Gamer at heart  
 - 🪂 Former **paratrooper** in the U.S. Army  
 - 💻 Programming since age **11** — a lifelong passion  
-- 💡 Mission: contribute something meaningful to humanity — not for fame, but for fulfillment  
+- 💡 Mission: contribute something meaningful to humanity
