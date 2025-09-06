@@ -7,7 +7,6 @@
 
 ## 📊 GitHub Stats
 
-![Matthew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matthewschaney&show_icons=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=matthewschaney&theme=radical&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewschaney&layout=compact&theme=radical)
 
