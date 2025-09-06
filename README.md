@@ -20,4 +20,5 @@ We’re passionate about software freedom, accessibility, and transparency.
 ## ✨ Fun Facts
 - 🪐 Fascinated by **astronomy**, history, and maps  
 - 🎮 Gamer at heart  
+- 🪂 Former **paratrooper** in the U.S. Army  
 - 💡 Mission: contribute something meaningful to humanity — not for fame, but for fulfillment  
