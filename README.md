@@ -2,7 +2,7 @@
 
 🌞 **Daytime**: I’m a professional **Full-Stack Java Developer**, building scalable and reliable applications.  
 
-🌙 **Nighttime**: I’m the **Founder & Maintainer of [EleuCode](https://github.com/EleuCode)** — an open-source organization dedicated to producing free software apps, proudly licensed under **GPL-3.0**.
+🌙 **Nighttime**: I love to **create and contribute to free software** projects.  
 
 ---
 
