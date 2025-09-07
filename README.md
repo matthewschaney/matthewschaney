@@ -24,13 +24,6 @@
 
 ---
 
-## 🚀 About EleuCode
-As the **Founder of EleuCode**, I lead a community-driven effort to create and maintain open-source projects that empower users.  
-We’re passionate about software freedom, accessibility, and transparency.  
-👉 Explore our work: [EleuCode on GitHub](https://github.com/EleuCode)
-
----
-
 ## ✨ Fun Facts
 - 🪐 Fascinated by **astronomy**, history, and maps  
 - 🎮 Gamer at heart  
